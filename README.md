@@ -1,6 +1,6 @@
 # Reading-notes-201
 
-Reading notes for class 201
+Hey, my name is Tricia and these are my reading notes for class 201!
 
 ## Table Of Contents
 
