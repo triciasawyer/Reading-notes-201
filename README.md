@@ -3,10 +3,10 @@
 Hey, my name is Tricia and these are my reading notes for class 201!
 
 
-## **Code 102** - Intro to Software Development
-## **Code 201** - Foundations of Software Development
-## **Code 301** - Intermediate Software Development
-## **Code 401** - Advanced Software Development
+## Code 102 - *Intro to Software Development*
+## Code 201 - *Foundations of Software Development*
+## Code 301 - *Intermediate Software Development*
+## Code 401 - *Advanced Software Development*
 
 
 ## Table Of Contents
