@@ -10,7 +10,6 @@ Hey, my name is Tricia and these are my reading notes for class 201!
 
 ## Code 401 - *Advanced Software Development*
 
-
 ## Table Of Contents
 
 - [201 Class 1](class-01.md)
