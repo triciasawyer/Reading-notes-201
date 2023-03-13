@@ -3,7 +3,7 @@
 ## Reading 01- Getting Started
 
 **Compose a short poem describing how HTTP sends data between computers.**
-It starts with a request message that is sent to the server. It requests a copy of the website to the client.
+It starts with a HTTP request message that is sent from the browser to the server. The message is requesting that the server sends a copy of the website to the client. That message along with all of the other data sent between the client and the server, is sent across the internet connection using TCI/IP (Transmission Control Protocol/Internet Protocol).
 
 **Describe how HTML, CSS, and JS files are “parsed” in the browser.**
 When the html document is well formed, it'll be quicker and easier for those files to be parsed when the html file is received.
