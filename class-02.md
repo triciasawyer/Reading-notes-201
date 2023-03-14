@@ -19,8 +19,10 @@ You have to provide a full expansion of the term in plain text with the first us
 ## Learn css
 
 **What are ways we can apply CSS to our HTML?**
+Through external stylesheets, intertnal style sheets, and even inline styles (while isn't recommended).
 
 **Why should we avoid using inline styles?**
+It is the least efficient implementation of css. Inline css also mixes code with HTML and content, making it difficult to read and understand.
 
 Review the block of code below and answer the following questions:**
 **What is representing the selector?**
@@ -28,3 +30,21 @@ Review the block of code below and answer the following questions:**
 **Which components are the CSS declarations?**
 
 **Which components are considered properties?**
+
+## Learning JS
+
+**What data type is a sequence of text enclosed in single quote marks?**
+String
+
+**List 4 types of JavaScript operators.**
+Addition, Subtraction, assignment, strict equality
+
+**Describe a real world Problem you could solve with a Function.**
+
+**An if statement checks a __ and if it evaluates to ___, then the code block will execute.**
+
+**What is the use of an else if?**
+
+**List 3 different types of comparison operators.**
+
+**What is the difference between the logical operator && and ||?**
