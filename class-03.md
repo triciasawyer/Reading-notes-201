@@ -40,6 +40,7 @@ Array's can store numbers, strings, boolean values (true and false), characters,
  (a + c) + b;
 
 **Describe a real world example of when a conditional statement should be used in a JavaScript program.**
+A real world example would be passwords. Passwords are >if, then
 
 **Give an example of when a Loop is useful in JavaScript.**
 WHen you want to use the same code, you can use a loop so you don't have to rewrite the code however many times.
