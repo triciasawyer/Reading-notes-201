@@ -13,9 +13,11 @@ Unordered lists are used when the order of the items doesn't matter. Ordered lis
 
 **Describe two ways you can change the numbers on list items provided by an ordered list?**
 
+
 ## Learn CSS
 
 **Describe the CSS properties of margin and padding as characters in a story. What is their role in a story titled: “The Box Model”?**
+
 
 **List and describe the four parts of an HTML elements box as referred to by the box model.**
 Content, padding, border, and margin.
