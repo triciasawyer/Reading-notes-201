@@ -2,13 +2,17 @@
 
 ## Reading
 
+
 ## Learn HTML
 
 **To create a basic link, we wrap text or other content inside what element?**
+An < a >, anchor element
 
 **The href attribute contains what information?**
+A link 
 
 **What are some ways we can ensure links on our pages are accessible to all readers?**
+
 
 ## CSS layout
 
