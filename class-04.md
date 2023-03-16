@@ -1,7 +1,5 @@
 # class 4
 
-## Reading
-
 ## Learn HTML
 
 **To create a basic link, we wrap text or other content inside what element?**
@@ -12,7 +10,6 @@ The href specifies the URL of the external resource, like a style sheet.
 
 **What are some ways we can ensure links on our pages are accessible to all readers?**
 Keep the link text short and simple. Don't use URLs for link text either, and don't use the word link as part of the link text.
-
 
 ## CSS layout
 
@@ -38,7 +35,6 @@ Declared functions are not executed immediately. They are saved for later to the
 
 **What is the difference between a parameter and an argument?**
 The values that are declared within a function when the function is called upon are known as an argument. The variables that are defined when the function is declared are parameters.
-
 
 ## Miscellaneous
 
