@@ -20,7 +20,16 @@ PNG or WebP because they are defaults for almost all screen capture tools. There
 ## Learn CSS
 
 **Describe the difference between foreground and background colors of an HTML element, pretend you are talking to someone with no technical knowledge.**
+Foregorund controls what color your brush or pencil will be, while the background color erases any added color and replaces it with the background color.
+
 **Your friend asks you to give his colorless blog website a touch up. How would you use color to give his blog some character?**
+I would first add a background color to the body of his page, creating lots of color behind the blog page. I would then look at my friends blog page and see where I can add a different color in the background on certain paragraphs or headings, so those parts stick out. I would also maybe change some text color and add different weights such as bold so the page doesn't just blend all together.
+
 **What should you consider when choosing fonts for an HTML document?**
+You should consider the user and how well they could see. So don't choose a crazy font that only certain peoope can read.
+
 **What do font-size, font-weight, and font-style do to HTML text elements?**
+Font size changes the size of the font. Font weight will change the value placed on your font, such as bold or light text. Font style is used to specifiy italic text. So you can change how the text looks such as italic or just normal.
+
 **Describe two ways you could add spacing around the characters displayed in an h1 element.**
+You can do that by adding padding or margins to the h1 element.
