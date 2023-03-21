@@ -9,7 +9,19 @@ A standalone entity, with properties and type. Compare it to a cup, for example.
 Some advantages are convenience, flexibility in declaration, and less code during declaration. You can drop an object literal anywhere in your program with no previous setup.
 
 **How do objects differ from arrays?**
+Objects represent “things” with characteristics (aka properties), while arrays create and store lists of data in a single variable.
 
 **Give an example for when you would need to use bracket notation to access an object’s property instead of dot notation.**
+If the object's key value is only known at runtime, then we need to use bracket notation.
 
 **Evaluate the code below. What does the term this refer to and what is the advantage to using this?**
+> const dog = {
+> name: 'Spot',
+> age: 2,
+> color: 'white with black spots',
+> humanAge: function (){
+> console.log(`${this.name} is ${this.age*7} in human years`);
+> }
+>}
+
+This, allows us to reuse functions in different execution contexts. It means, a function once defined can be invoked for different objects using the this keyword.
