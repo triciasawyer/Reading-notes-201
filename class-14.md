@@ -8,6 +8,7 @@
 The transform CSS property lets you rotate, scale, skew, or translate an element. It modifies the coordinate space of the CSS visual formatting model.
 
 **Provide an example of a transform and how you could see that being used on a website.**
+I could see a transfomr being used for an animated logo, which will allow the logo to feel and look more alive to the user. I actually used some rotation on a logo I implemented on my salmon cookies project, that whe you hover over the logo, which is a ship wheel, it rotates 360 degrees, which makes things fun.
 
 ## CSS Transitions & Animations
 
@@ -20,6 +21,7 @@ There are two ways to animate web elements in CSS: the animation and transition 
 ## 8 simple CSS3 transitions that will wow your users
 
 **What are some benefits to using CSS transitions on websites?**
+Transitions allow you to make changes for animations to feel smooth instead of jarring. Good transitions feel natural, often giving the illusion that users are interacting with real-world objects.
 
 **How this topic fit in with your long-term goals?**
 This topic definitely fits in with my long term goals by simply just teaching me more about CSS and what I can do with it. In order to become a sucessful software deevloepr, I need and want to know as much as I can about CSS and all of the languages that I'll be using.
