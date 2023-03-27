@@ -1,5 +1,7 @@
 # class 11
 
+## This topic matters because as we use more css and html to build our webpages, knowing and understanding video and audio are important, and when applying them, they will add more to your page.
+
 ## Video and Audio Content
 
 **Explain how the ability to use video and audio on the web has evolved since the early 2000s.**
