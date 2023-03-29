@@ -1,5 +1,7 @@
 # class 15
 
+## Psychological Safety
+
 **What are three key factors that contribute to psychologically safe teams?**
 +Frame the work as a learning problem, not an execution problem.
 +Acknowledge your own fallibility.
