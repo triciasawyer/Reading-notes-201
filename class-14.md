@@ -1,6 +1,6 @@
 # class 14
 
-## This topic matters because as we implement more CSS to our web pages, I can now know more and apply more things with this new knowledge. 
+## This topic matters because as we implement more CSS to our web pages, I can now know more and apply more things with this new knowledge.
 
 ## CSS Transforms
 
